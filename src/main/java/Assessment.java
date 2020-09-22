@@ -1,3 +1,5 @@
+//GIT PUSH LOG for adlister fork on GITHUB, 4-22-2020, updated databases
+
 import java.util.HashMap;
 import model.Burger;
 
